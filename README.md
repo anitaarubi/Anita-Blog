@@ -1,5 +1,5 @@
   # THE CONTEXT OF SOCIAL MEIDIA 
-#TOPICS TO BE DISCUSSED ON:)  
+     TOPICS TO BE DISCUSSED ON:)  
 
 1.The Evolution of Digital Interaction:*
 Tracing the historical roots and technological milestones that paved the way for the rise of social media.
@@ -38,3 +38,5 @@ Tracing the historical roots and technological milestones that paved the way for
     Speculating on emerging trends, potential innovations, and the evolving role of social media in our rapidly changing digital landscape.
 
 These subtitles provide a comprehensive framework for exploring the multifaceted context of social media, covering its historical evolution, societal impacts, and potential future trajectories.
+
+         THE EVOLUTION OF DIGITAL INTERACTION
