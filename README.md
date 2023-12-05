@@ -2,8 +2,7 @@
 #TOPICS TO BE DISCUSSED ON:)  
 
 1.The Evolution of Digital Interaction:*
-
-   Tracing the historical roots and technological milestones that paved the way for the rise of social media.
+Tracing the historical roots and technological milestones that paved the way for the rise of social media.
 
 2. Redefining Communication:*
    Exploring how social media has transformed traditional modes of communication and brought forth new dynamics in interpersonal connections.
