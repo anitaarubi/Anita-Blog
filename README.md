@@ -1,5 +1,6 @@
   # THE CONTEXT OF SOCIAL MEIDIA 
-#TOPICS TO BE DEALT WITH 
+#TOPICS TO BE DISCUSSED ON:)  
+
 1.The Evolution of Digital Interaction:*
    Tracing the historical roots and technological milestones that paved the way for the rise of social media.
 
