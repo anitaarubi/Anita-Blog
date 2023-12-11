@@ -1,9 +1,7 @@
   # THE CONTEXT OF SOCIAL MEIDIA 
      TOPICS TO BE DISCUSSED ON:)  
+![image](https://github.com/anitaarubi/Anita-Blog/assets/152513814/1b16219c-6348-412b-b8d9-2dfdfdce67ff) ![image](https://github.com/anitaarubi/Anita-Blog/assets/152513814/f9dba424-f9a1-4095-9ad7-a4be67ee9716)
 
-![image](https://github.com/anitaarubi/Anita-Blog/assets/152513814/2f3df786-f0d7-464b-ac40-eadea3ecc993)
-
-![image](https://github.com/anitaarubi/Anita-Blog/assets/152513814/1333b402-9530-4a88-a2db-c7e8120e0e69)
 
 1.The Evolution of Digital Interaction:*
 Tracing the historical roots and technological milestones that paved the way for the rise of social media.
